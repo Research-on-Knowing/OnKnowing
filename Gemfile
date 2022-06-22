@@ -6,6 +6,8 @@ ruby RUBY_VERSION
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
+#     bundle exec jekyll serve --trace
+#     bundle exec jekyll serve --livereload
 #
 
 # If you have any plugins, put them here!
@@ -16,3 +18,4 @@ group :jekyll_plugins do
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
 end
+gem "webrick", "~> 1.7"
