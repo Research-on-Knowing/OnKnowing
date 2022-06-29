@@ -1,4 +1,4 @@
-I"ÆT<div class="container">
+I"ìT<div class="container">
     
 
     
@@ -11,12 +11,12 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/welcome-to-jekyll/">
-    <div class="topfirstimage" style="background-image: url( /assets/images/demo1.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="/welcome-to-on-knowing/">
+    <div class="topfirstimage" style="background-image: url( /assets/images/logo.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/welcome-to-jekyll/">Welcome to Jekyll!</a>
+    <a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
     </h2>
     <p class="excerpt">
         Youâ€™ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the s...
@@ -25,7 +25,7 @@
         <small class="d-block text-muted">
             In <span class="catlist">
                 
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
                 
                 </span>                   
         </small>
@@ -199,7 +199,7 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/welcome-to-jekyll/">Welcome to Jekyll!</a>
+	<a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
 	</h2>
 	<p class="excerpt">
 	   Youâ€™ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
@@ -207,7 +207,7 @@
 	<small class="d-block text-muted">
 		In <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
 		
 		</span>
 	</small>
@@ -217,8 +217,8 @@
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/welcome-to-jekyll/">
-	<img class="w-100" src="/assets/images/demo1.jpg" alt="Welcome to Jekyll!" />
+	<a href="/welcome-to-on-knowing/">
+	<img class="w-100" src="/assets/images/logo.jpg" alt="Welcome to On Knowing!" />
 	</a>
 	</div>
 
