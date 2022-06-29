@@ -2,7 +2,7 @@
 name: 'On Knowing' #'Mundana'
 description: 'The practical application of epistemology to advance how we learn, understand and create things.' 
 # old description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.pjg'
+logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 # baseurl: '/OnKnowing'
