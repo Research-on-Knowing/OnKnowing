@@ -1,14 +1,13 @@
 # Site
-name: 'On Knowing' #'Mundana'
+name: 'On Knowing' 
 description: 'The practical application of epistemology to advance how we learn, understand and create things.' 
-# old description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 # baseurl: '/OnKnowing'
 # url: 'https://github.com/Research-on-Knowing'
 # disqus: 'demowebsite'
-email: 'info@onKnowing.com' #'wowthemesnet@gmail.com'
+email: 'info@onKnowing.com' 
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -26,18 +25,11 @@ authors:
       name:           Jamie
       site:           https://www.ResearchOnKnowing.com
       avatar:         /assets/images/Jamie.jpg 
-      bio:            "Hi, I am Jamie, an author here at on Knowing. I hope these posts add you understand of what knowledge is!"
+      bio:            "Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!"
       email:          jamie@onKnowing.com
       twitter:        https://twitter.com/JamieOnKnowing
 
-#    jane:
-#      name:           Jane
-#      site:           https://www.wowthemes.net
-#      avatar:         /assets/images/avatar2.jpg
-#      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-#      email:          fakemail@gmail.com
-#      twitter:        https://twitter.com/wowthemesnet
- 
+
 # Defaults
 defaults:
 
@@ -47,7 +39,7 @@ defaults:
     values:
       layout: post
       author: jamie
-      avatar: /assets/images/avatar1.jpg #??
+      avatar: /assets/images/Jamie.jpg 
       
   # all pages
   - scope:
