@@ -4,8 +4,7 @@ description: 'The practical application of epistemology to advance how we learn,
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-# baseurl: '/OnKnowing'
-# url: 'https://github.com/Research-on-Knowing'
+url: 'https://www.OnKnowing.com'
 # disqus: 'demowebsite'
 email: 'info@onKnowing.com' 
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -24,7 +23,7 @@ authors:
     jamie:
       name:           Jamie
       site:           https://www.ResearchOnKnowing.com
-      avatar:         /assets/images/Jamie.jpg 
+      avatar:         assets/images/Jamie.jpg 
       bio:            "Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!"
       email:          jamie@onKnowing.com
       twitter:        https://twitter.com/JamieOnKnowing
