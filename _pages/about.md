@@ -5,7 +5,7 @@ permalink: "/about.html"
 image: "assets/images/great-horned-owl.jpg"
 ---
 
-<img class="card-img-top mb-5 shadow-lg" src="assets/images/great-horned-owl.jpg" alt="About">
+<img class="card-img-top mb-5 shadow-lg" src="assets/images/great-horned-owl.jpg" alt="Great Horned Owl">
 
 #### About On Knowing
 
