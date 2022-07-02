@@ -134,16 +134,3 @@ $(function() {
     }
   }
 });
-
-// Contact Form Processing to Send Email
-var myContactForm = document.forms["contactForm"];
-myContactForm.onsubmit = function(e) {
-    var myName = myContactForm.elements["name"].value;
-    myContactForm.elements["name"].value = "";
-    var myEmail = myContactForm.elements["_replyto"].value;
-    myContactForm.elements["_replyto"].value = "";
-    var myMessage = myContactForm.elements["message"].value;
-    myContactForm.elements["message"].value = "";
-    e.preventDefault();
-    location.href = `mailto:info@OnKnowing.com?reply-to=${myEmail}&subject=${myName}%20message%20from%20OnKnowing.com%20website&body=${myMessage}`;
-};
