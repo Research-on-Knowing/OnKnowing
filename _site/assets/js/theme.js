@@ -139,11 +139,11 @@ $(function() {
 var myContactForm = document.forms["contactForm"];
 myContactForm.onsubmit = function(e) {
     var myName = myContactForm.elements["name"].value;
-    myContactForm.elements["name"].value = "Name*";
+    myContactForm.elements["name"].value = "";
     var myEmail = myContactForm.elements["_replyto"].value;
-    myContactForm.elements["_replyto"].value = "E-mail Address*";
+    myContactForm.elements["_replyto"].value = "";
     var myMessage = myContactForm.elements["message"].value;
-    myContactForm.elements["message"].value = "Message*";
+    myContactForm.elements["message"].value = "";
     e.preventDefault();
     location.href = `mailto:info@OnKnowing.com?subject=${myName}%20message%20from%20OnKnowing.com&cc=${myEmail}&body=${myMessage}`;
 };
