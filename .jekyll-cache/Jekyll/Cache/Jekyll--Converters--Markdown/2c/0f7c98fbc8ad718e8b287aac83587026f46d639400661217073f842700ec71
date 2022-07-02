@@ -1,4 +1,4 @@
-I"<div class="container">
+I"†	<div class="container">
 <h4 class="font-weight-bold spanborder"><span>Authors</span></h4>
     <div class="row gap-y listrecent listrecent listauthor">
     
@@ -16,6 +16,27 @@
             <div>
             <a target="_blank" href="https://twitter.com/JamieOnKnowing"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
             <a target="_blank" href="https://www.ResearchOnKnowing.com"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Dan" src="/assets/images/Dan.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-dan">
+            <h4 class="text-dark mb-0"> Dan </h4>
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Hi, I'm Dan, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="https://twitter.com/Dan_IT_Cookbook"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.Dans-IT-Cookbook.com"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
             </div>
             </div>
             </div>
