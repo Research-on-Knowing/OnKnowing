@@ -145,5 +145,5 @@ myContactForm.onsubmit = function(e) {
     var myMessage = myContactForm.elements["message"].value;
     myContactForm.elements["message"].value = "Message*";
     e.preventDefault();
-    location.href = `mailto:{{ site.email }}?subject=OnKnowing.com%20${myName}&body=${myMessage}`;
+    location.href = `mailto:info@OnKnowing.com?subject=${myName}%20message%20from%20OnKnowing.com&cc=${myEmail}&body=${myMessage}`;
 };
