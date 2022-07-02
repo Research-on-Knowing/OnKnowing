@@ -5,8 +5,6 @@ permalink: "/about.html"
 image: "assets/images/great-horned-owl.jpg"
 ---
 
-<img class="col-md-6" src="assets/images/great-horned-owl.jpg" alt="Great Horned Owl">
-
 #### About On Knowing
 
 On Knowing is the blog for [Research on Knowing LLC](https://www.researchonknowing.com/). The practical application of epistemology to advance how we learn, understand and create things.
