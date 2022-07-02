@@ -134,3 +134,15 @@ $(function() {
     }
   }
 });
+
+// Contact Form Processing to Send Email
+var myContactForm = document.forms["contactForm"];
+myContactForm.onsubmit = function(e) {
+    var myName = myContactForm.elements["name"].value;
+    var myEmail = myContactForm.elements["_replyto"].value;
+    var myMessage = myContactForm.elements["message"].value;
+    e.preventDefault();
+    alert(myName);
+    alert(myEmail);
+    alert(myMessage);
+};
