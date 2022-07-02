@@ -4,23 +4,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Contact | On Knowing</title>
+    <title>Dan | On Knowing</title>
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Contact | On Knowing</title>
+<title>Dan | On Knowing</title>
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Contact" />
+<meta property="og:title" content="Dan" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The practical application of epistemology to advance how we learn, understand and create things." />
 <meta property="og:description" content="The practical application of epistemology to advance how we learn, understand and create things." />
-<link rel="canonical" href="http://localhost:4000/contact.html" />
-<meta property="og:url" content="http://localhost:4000/contact.html" />
+<link rel="canonical" href="http://localhost:4000/author-dan.html" />
+<meta property="og:url" content="http://localhost:4000/author-dan.html" />
 <meta property="og:site_name" content="On Knowing" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Contact" />
+<meta property="twitter:title" content="Dan" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"The practical application of epistemology to advance how we learn, understand and create things.","headline":"Contact","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.jpg"}},"url":"http://localhost:4000/contact.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"The practical application of epistemology to advance how we learn, understand and create things.","headline":"Dan","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.jpg"}},"url":"http://localhost:4000/author-dan.html"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -112,12 +112,12 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/author-jamie.html",
     "title": "Jamie",
-    "body": "                        Jamie Follow:         https://www. ResearchOnKnowing. com         Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!                                   Posts by Jamie:                   		Welcome to On Knowing!	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				OnKnowing, 								Jul 01, 2022						            		Education must also train one for quick, resolute and effective thinking. 	: 		  There are lots of powerful things you can do with the Markdown editor	 			In 				Jekyll, 				tutorial, 								Feb 01, 2019						            		Could we reinvent the charm of old cities	: 		  Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th c. . . 	 			In 				Jekyll, 				tutorial, 								Jan 18, 2019						        "
+    "body": "                        {{page. title}} Follow:         {{ site. authors. jamie. site }}         {{ site. authors. jamie. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , jamie  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
     }, {
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
     "title": "Authors",
-    "body": "Authors:                                             Jamie :       (View Posts)      Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!                          &nbsp;       &nbsp;                                      "
+    "body": "{{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;                                    {% endfor %}  "
     }, {
     "id": 5,
     "url": "http://localhost:4000/buy-me-a-coffee.html",
@@ -127,12 +127,12 @@ var documents = [{
     "id": 6,
     "url": "http://localhost:4000/categories.html",
     "title": "Categories",
-    "body": "          Categories               Jekyll:                                  		Powerful things you can do with the Markdown editor	: 		  There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about t. . . 	 			In 				Jekyll, 				tutorial, 								Feb 03, 2019						                                 		Education must also train one for quick, resolute and effective thinking. 	: 		  There are lots of powerful things you can do with the Markdown editor	 			In 				Jekyll, 				tutorial, 								Feb 01, 2019						                                 		Accumulated experience of social living	: 		  The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 	 			In 				Jekyll, 				tutorial, 								Jan 30, 2019						                                 		About Bundler	: 		  gem install bundler installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:	 			In 				Jekyll, 								Jan 29, 2019						                                 		We all wait for summer	: 		  This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Mos. . . 	 			In 				Jekyll, 				tutorial, 								Jan 28, 2019						                                 		Tree of Codes	: 		  The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot. . . 	 			In 				Jekyll, 				tutorial, 								Jan 27, 2019						                                 		Red Riding Hood	: 		  The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot. . . 	 			In 				Jekyll, 				tutorial, 								Jan 26, 2019						                                 		Press and education	: 		  Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, i. . . 	 			In 				Jekyll, 				tutorial, 								Jan 25, 2019						                                 		Options for creating a new site with Jekyll	: 		  jekyll new &lt;PATH&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog. Here are. . . 	 			In 				Jekyll, 				tutorial, 								Jan 23, 2019						                                 		Never stopped worrying or loving the bomb	: 		  I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the . . . 	 			In 				Jekyll, 								Jan 22, 2019						                                 		Is Intelligence Enough	: 		  Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become. . . 	 			In 				Jekyll, 				tutorial, 								Jan 21, 2019						                                 		Quick Start Guide	: 		  If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:	 			In 				Jekyll, 				tutorial, 								Jan 20, 2019						                                 		Markdown Example	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				Jekyll, 				tutorial, 								Jan 19, 2019						                                 		What is Jekyll	: 		  No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp; CSS go in. Static sites come out ready for deployment. Permalinks, c. . . 	 			In 				Jekyll, 				tutorial, 								Jan 18, 2019						                                 		Could we reinvent the charm of old cities	: 		  Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th c. . . 	 			In 				Jekyll, 				tutorial, 								Jan 18, 2019						                              tutorial:                                  		Powerful things you can do with the Markdown editor	: 		  There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about t. . . 	 			In 				Jekyll, 				tutorial, 								Feb 03, 2019						                                 		The first mass-produced book to deviate from a rectilinear format	: 		  The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot. . . 	 			In 				tutorial, 								Feb 02, 2019						                                 		Education must also train one for quick, resolute and effective thinking. 	: 		  There are lots of powerful things you can do with the Markdown editor	 			In 				Jekyll, 				tutorial, 								Feb 01, 2019						                                 		Accumulated experience of social living	: 		  The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 	 			In 				Jekyll, 				tutorial, 								Jan 30, 2019						                                 		We all wait for summer	: 		  This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Mos. . . 	 			In 				Jekyll, 				tutorial, 								Jan 28, 2019						                                 		Tree of Codes	: 		  The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot. . . 	 			In 				Jekyll, 				tutorial, 								Jan 27, 2019						                                 		Red Riding Hood	: 		  The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot. . . 	 			In 				Jekyll, 				tutorial, 								Jan 26, 2019						                                 		Press and education	: 		  Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, i. . . 	 			In 				Jekyll, 				tutorial, 								Jan 25, 2019						                                 		Options for creating a new site with Jekyll	: 		  jekyll new &lt;PATH&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog. Here are. . . 	 			In 				Jekyll, 				tutorial, 								Jan 23, 2019						                                 		Is Intelligence Enough	: 		  Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become. . . 	 			In 				Jekyll, 				tutorial, 								Jan 21, 2019						                                 		Quick Start Guide	: 		  If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:	 			In 				Jekyll, 				tutorial, 								Jan 20, 2019						                                 		Markdown Example	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				Jekyll, 				tutorial, 								Jan 19, 2019						                                 		What is Jekyll	: 		  No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp; CSS go in. Static sites come out ready for deployment. Permalinks, c. . . 	 			In 				Jekyll, 				tutorial, 								Jan 18, 2019						                                 		Could we reinvent the charm of old cities	: 		  Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th c. . . 	 			In 				Jekyll, 				tutorial, 								Jan 18, 2019						                              OnKnowing:                                  		Welcome to On Knowing!	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				OnKnowing, 								Jul 01, 2022						                                             Featured:    				                                          The first mass-produced book to deviate from a rectilinear format                          In                     tutorial,                                                                                           We all wait for summer                          In                     Jekyll,                     tutorial,                                                                                           Never stopped worrying or loving the bomb                          In                     Jekyll,                                                                                           Markdown Example                          In                     Jekyll,                     tutorial,                                                                   "
+    "body": "          Categories          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
     }, {
     "id": 7,
     "url": "http://localhost:4000/contact.html",
     "title": "Contact",
-    "body": "Please send your message to On Knowing. We will reply as soon as possible! Email info@onKnowing. com"
+    "body": "Please send your message to {{site. name}}. We will reply as soon as possible! Email {{ site. email}}"
     }, {
     "id": 8,
     "url": "http://localhost:4000/",
@@ -311,16 +311,22 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         <div class="container">
-<h3 class="font-weight-bold spanborder"><span>Contact</span></h3>
-<div class="page-content">
-<div class="col-md-6">
-<p class="mb-4">Please send your message to On Knowing. We will reply as soon as possible!</p>
-<a class="btn btn-success" href="mailto:info@onKnowing.com?subject=Visitor to On Knowing website">Email info@onKnowing.com</a>
-<div>
-</div></div>
-
-<!-- Comments -->
-
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Dan <span class="small btn btn-outline-success btn-sm btn-round"><a href="">Follow</a></span></h2>
+                <p><a href=""></a></p>
+                <p class="excerpt"></p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="" src="" class="rounded-circle" height="100" width="100">
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Dan</span></h4>
+            
+            
+    </div>
 </div>
 </div>
     </main>
