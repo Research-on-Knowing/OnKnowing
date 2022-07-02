@@ -18,5 +18,5 @@ permalink: "/contact.html"
 </form>
 
 <div class="col-md-6">
-<a class="btn btn-success" href="mailto:{{ site.email }}?subject=Visitor to {{ site.title }}">Email {{ site.email}}</a>
+<a class="btn btn-success" href="mailto:{{ site.email }}?subject=Visitor to {{ site.name }} website">Email {{ site.email}}</a>
 <div>

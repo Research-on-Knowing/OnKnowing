@@ -1,4 +1,4 @@
-I"M<form name="contactForm">    
+I"÷<form name="contactForm">    
 <p class="mb-4">Please send your message to On Knowing. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
@@ -11,4 +11,9 @@
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required=""></textarea>    
 <button class="btn btn-success" type="submit">Send</button>
 </form>
+
+<div class="col-md-6">
+<a class="btn btn-success" href="mailto:info@OnKnowing.com?subject=Visitor to On Knowing website">Email info@OnKnowing.com</a>
+<div>
+</div></div>
 :ET
