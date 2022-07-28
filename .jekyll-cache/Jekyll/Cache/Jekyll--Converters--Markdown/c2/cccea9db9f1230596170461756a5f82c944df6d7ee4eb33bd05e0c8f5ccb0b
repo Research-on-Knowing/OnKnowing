@@ -1,4 +1,4 @@
-I"<div class="container">
+I"�<div class="container">
     
 
     
@@ -11,15 +11,15 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/welcome-to-on-knowing/">
-    <div class="topfirstimage" style="background-image: url( assets/images/Night-Owl-in-Flight.jpeg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="/what-is-knowledge/">
+    <div class="topfirstimage" style="background-image: url( assets/images/Night-Owl.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
+    <a class="text-dark" href="/what-is-knowledge/">What is Knowledge?</a>
     </h2>
     <p class="excerpt">
-        You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the s...
+        Many people think very naively about knowing something. Their will state knowlegde is a belief which is true. A typical example of so...
     </p>
     <div>
         <small class="d-block text-muted">
@@ -30,7 +30,7 @@
                 </span>                   
         </small>
         <small class="text-muted">
-            Jul 01, 2022
+            Jul 03, 2022
         </small>
     </div>
     </div>
@@ -40,18 +40,26 @@
     <div class="col-md-6">
         
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/welcome-to-on-knowing/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/Night-Owl-in-Flight.jpeg" alt="Welcome to On Knowing!" />
+                </a>
+                </div>
                                 
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href=""></a>
+                    <a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
+                        
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        
+                        Jul 01, 2022
                     </small>
                 </div>
             </div>
@@ -97,6 +105,24 @@
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
  
 
+ 
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+    <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h1 class="mb-3">Welcome to On Knowing!</h1>
+                <p class="mb-3 lead">
+                    On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistem...
+                </p>
+                <a href="/welcome-to-on-knowing/" class="btn btn-dark">Read More</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/Night-Owl-in-Flight.jpeg);">	
+            </div>
+        </div>
+    </div>
+</div> 
+
 
 
 
@@ -121,10 +147,40 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/what-is-knowledge/">What is Knowledge?</a>
+	</h2>
+	<p class="excerpt">
+	   Many people think very naively about knowing something. Their will state knowlegde is a belief which is true. A typical example of something people claim to know is that the sun will ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 03, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/what-is-knowledge/">
+	<img class="w-100" src="/assets/images/Night-Owl.jpg" alt="What is Knowledge?" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
 	</h2>
 	<p class="excerpt">
-	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
+	   On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistemology to advance how we learn, understand and crea...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">

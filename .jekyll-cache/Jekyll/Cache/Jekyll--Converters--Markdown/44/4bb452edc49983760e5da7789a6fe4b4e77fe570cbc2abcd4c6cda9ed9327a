@@ -1,10 +1,10 @@
-I"f<div class="container">
+I"X<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
             
          
-        <h4 class="font-weight-bold spanborder text-capitalize" id="onknowing"><span>OnKnowing</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="sticky"><span>sticky</span></h4>
             
         
         
@@ -17,7 +17,7 @@
 	<a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
 	</h2>
 	<p class="excerpt">
-	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
+	   On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistemology to advance how we learn, understand and crea...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">

@@ -115,7 +115,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/author-jamie.html",
     "title": "Jamie",
-    "body": "                        Jamie Follow:         https://www. ResearchOnKnowing. com         Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!                                   Posts by Jamie:                   		Welcome to On Knowing!	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				OnKnowing, 								Jul 01, 2022						        "
+    "body": "                        Jamie Follow:         https://www. ResearchOnKnowing. com         Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!                                   Posts by Jamie:                   		What is Knowledge?	: 		  Many people think very naively about knowing something. Their will state knowlegde is a belief which is true. A typical example of something people claim to know is that the sun will . . . 	 			In 				OnKnowing, 								Jul 03, 2022						            		Welcome to On Knowing!	: 		  On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistemology to advance how we learn, understand and crea. . . 	 			In 				OnKnowing, 								Jul 01, 2022						        "
     }, {
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
@@ -130,7 +130,7 @@ var documents = [{
     "id": 6,
     "url": "http://localhost:4000/categories.html",
     "title": "Categories",
-    "body": "          Categories               OnKnowing:                                  		Welcome to On Knowing!	: 		  You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa. . . 	 			In 				OnKnowing, 								Jul 01, 2022						                                             Featured:    				                  "
+    "body": "          Categories               OnKnowing:                                  		What is Knowledge?	: 		  Many people think very naively about knowing something. Their will state knowlegde is a belief which is true. A typical example of something people claim to know is that the sun will . . . 	 			In 				OnKnowing, 								Jul 03, 2022						                                 		Welcome to On Knowing!	: 		  On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistemology to advance how we learn, understand and crea. . . 	 			In 				OnKnowing, 								Jul 01, 2022						                                             Featured:    				                  "
     }, {
     "id": 7,
     "url": "http://localhost:4000/contact.html",
@@ -158,9 +158,14 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 12,
+    "url": "http://localhost:4000/what-is-knowledge/",
+    "title": "What is Knowledge?",
+    "body": "2022/07/03 - Many people think very naively about knowing something. Their will state knowlegde is a belief which is true. A typical example of something people claim to know is that the sun will rise in the morning. The predictive nature of this statement comes underimmediate attack as failing to be true after a supernova. Even when the statement is narrowed to the sun came up this morning, and I know this because I saw it. Many other questions such as where you were located come into play. Requiring all knowledge to be the result of personal experience is very limiting. Moreover, the experiments bringing intoquestion the accuracy of eyewitnesses can shack peoples faith in the ability of anyone to know anything. Part of the problem lies in requiring knowledge to be always true. Newtonian mechanics made way for the theory of relativity. Yet today Newton’s theory isstill taught as knowledge with the caveat that it works except in unusual situations such as moving very close to the speed of light. The simplest definition of knowledge is a believe with evidence demostrating it is true. "
+    }, {
+    "id": 13,
     "url": "http://localhost:4000/welcome-to-on-knowing/",
     "title": "Welcome to On Knowing!",
-    "body": "2022/07/01 - You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post. ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts  Hi, #{name} endprint_hi('Tom')#=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk. "
+    "body": "2022/07/01 - On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistemology to advance how we learn, understand and create things. Epistemology within Philosophy is “the theory of knowledge, especially with regard to its methods, validity, and scope. Epistemology is the investigation of what distinguishes justified belief from opinion. ” (OxfordLanguages) Make sure to read the theory articles first for a basic foundation on our philosophy of knowledge. Other posts will expand on this foundation diving deeper into the details. Meanwhile, various other Research on Knowing projects apply our philosophy of knowledge. We at Research on Knowing believe the practical application of epistemology can open our eyes and change our point of view. The invention of the telescope changed humanities ideas and understanding of the stars and planets. The microscope made visible an unimagined world within a drop of water. These are examples of how making visible what was previously hidden has revolutionized our knowledge. Computers and software have expanded our knowledge by revealing unseen truths. Research on Knowing employs these kinds of changes in viewpoint to explore how we learn, understand and create things. Thank you for joining us on this journey. We hope your discovers here at On Knowing will be enlightening. "
     }];
 
 var idx = lunr(function () {
@@ -244,10 +249,43 @@ function lunr_search(term) {
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/what-is-knowledge/">What is Knowledge?</a>
+	</h2>
+	<p class="excerpt">
+	   Many people think very naively about knowing something. Their will state knowlegde is a belief which is true. A typical example of something people claim to know is that the sun will ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 03, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/what-is-knowledge/">
+	<img class="w-100" src="/assets/images/Night-Owl.jpg" alt="What is Knowledge?">
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
 	</h2>
 	<p class="excerpt">
-	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
+	   On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistemology to advance how we learn, understand and crea...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
