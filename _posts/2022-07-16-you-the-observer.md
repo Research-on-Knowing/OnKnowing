@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "You the Observer"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

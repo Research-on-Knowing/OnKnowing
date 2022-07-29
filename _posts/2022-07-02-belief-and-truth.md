@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Belief and Truth"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

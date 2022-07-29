@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Viewpoint-seeing is believing"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

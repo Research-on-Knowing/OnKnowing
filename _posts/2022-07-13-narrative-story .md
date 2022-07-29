@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Narrative or Story"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

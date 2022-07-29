@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Limits to Logic"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

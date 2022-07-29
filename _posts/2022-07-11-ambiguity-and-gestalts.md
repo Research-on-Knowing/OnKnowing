@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Ambiguity and Gestalts"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

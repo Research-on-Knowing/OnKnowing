@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "What are models?"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

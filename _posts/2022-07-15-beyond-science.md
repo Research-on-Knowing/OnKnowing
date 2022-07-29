@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Beyond Science"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

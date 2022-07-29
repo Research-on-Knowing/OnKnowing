@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Visualization Technologies"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---

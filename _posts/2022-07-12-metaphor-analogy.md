@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Metaphor and Analogy"
 categories: [ OnKnowing ]
 image: assets/images/great-horned-owl.jpg
 ---
