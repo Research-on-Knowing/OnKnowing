@@ -13,14 +13,13 @@ mathematicians prove a host of theorems all based on the assumed truth of these 
 
 Euclidean geometry illustrates the essential mathematical approach. Euclid formulated five postulates as follows:
 
-"
 1. A straight line segment can be drawn joining any two points.
 2. Any straight line segment can be extended indefinitely in a straight line.
 3. Given any straight line segment, a circle can be drawn having the segment as radius and one endpoint as center.
 4. All right angles are congruent.
 5. If two lines are drawn which intersect a third in such a way that the sum of the inner angles on one side is less than two right angles, 
 then the two lines inevitably must intersect each other on that side if extended far enough. 
-This postulate is equivalent to what is known as the parallel postulate.” (“Euclid’s Postulates”, 2022)
+This postulate is equivalent to what is known as the parallel postulate. (“Euclid’s Postulates”, 2022)
 
 A point in Euclid's geometry, does not have any dimension. It has no width or length and breadth unlike any point you might draw in the real world.
 Straight lines only have length and extend infinitely. While, there is no evidence points and lines behave this way in the physical world, 
@@ -45,4 +44,4 @@ the validity of calculus itself remained solidly intact. Giving confidence to th
 Again, the focus remains on the science and not the mathematics.
 
 ### References
-Euclid’s Postulates. (2022). Retrieved August 2, 2022, from Wolfram.com website: [https://mathworld.wolfram.com/EuclidsPostulates.html] (https://mathworld.wolfram.com/EuclidsPostulates.html)
+Euclid’s Postulates. (2022). Retrieved August 2, 2022, from Wolfram.com website: https://mathworld.wolfram.com/EuclidsPostulates.html
