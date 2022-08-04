@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Creating Everyone Everywhere Affordable Broadband Access"
-author: Dan
+author: dan
 categories: [ OnKnowing ]
 image: assets/images/Fiber-Optics.png
 ---
 We produced a paper with recommendations for creating affordable fiber optic
-broadband access. Here is the executive summary...
+broadband access. Below is the executive summary, and here is the 
+[full paper](https://drive.google.com/file/d/1zAyzFysyT33g34YLvkvh9l4Kwj32kaBC/view?usp=sharing)
 
 ## Executive Summary
 
@@ -25,5 +26,3 @@ analysis using total cost of operation for decisions such as underground versus 
 fiber optic installation, and implementation of a dig once policy to accelerate network
 backbone growth while saving both time and money. Dig once needs proper incentives
 to reward compliance.
-
-[full paper](https://drive.google.com/file/d/1zAyzFysyT33g34YLvkvh9l4Kwj32kaBC/view?usp=sharing)
