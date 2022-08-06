@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Trial 'n Error vs Recipe"
+title:  "Trial & Error vs Recipe"
 categories: [ OnKnowing ]
-image: assets/images/oatmeal-cookie.png
+image: assets/images/oatmeal-cookies.png
 ---
 Problem-solving can be seen broadly as transitioning a situation from one state to another. This view covers a host of human endeavors. 
 Most often the end state is considered a goal or objective. Problem-solving methods can be categorized as either trial and error or 
