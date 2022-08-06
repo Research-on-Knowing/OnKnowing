@@ -2,7 +2,7 @@
 layout: post
 title:  "Beyond Fundamentalism"
 categories: [ OnKnowing ]
-image: assets/images/Strange-Loop.jpg
+image: assets/images/Strange-Loop.png
 ---
 Religious conservatives have given fundamentalism a bad reputation. “Epistemology of Descartes is known as Fundamentalism. In his book of 
 Meditations on First Philosophy, Descartes tries to find some basis of knowledge. He is searching for total certainty, and by doing so, he subjects 
@@ -47,4 +47,5 @@ Hofstadter, D. (1979). Godel, Escher, Bach: an Eternal Golden Braid.
 Hofstadter, D. (2007). I Am a Strange Loop.
 
 UKEssays. (November 2018). Descartes Epistemology Known As Fundamentalism Philosophy Essay. 
-Retrieved from https://www.ukessays.com/essays/philosophy/descartes-epistemology-known-as-fundamentalism-philosophy-essay.php?vref=1 
+Retrieved from 
+[https://www.ukessays.com/essays/philosophy/descartes-epistemology-known-as-fundamentalism-philosophy-essay.php?vref=1](https://www.ukessays.com/essays/philosophy/descartes-epistemology-known-as-fundamentalism-philosophy-essay.php?vref=1) 
