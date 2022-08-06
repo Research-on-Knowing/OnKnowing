@@ -42,9 +42,9 @@ and I Am a Strange Loop (Hofstadter, 2007).
 
 ### References:
 
-Hofstadter, D. (1979). Godel, Escher, Bach: an Eternal Golden Braid.
+Hofstadter, D. R. (1999). *Gödel, Escher, Bach: An eternal golden braid*. Basic Books. 
 
-Hofstadter, D. (2007). I Am a Strange Loop.
+Hofstadter, D. R. (2007). *I Am a Strange Loop*. Basic Books.
 
 UKEssays. (November 2018). Descartes Epistemology Known As Fundamentalism Philosophy Essay. 
 Retrieved from 
