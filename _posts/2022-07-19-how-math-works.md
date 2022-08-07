@@ -44,4 +44,5 @@ the validity of calculus itself remained solidly intact. Giving confidence to th
 Again, the focus remains on the science and not the mathematics.
 
 ### References
-Euclid’s Postulates. (2022). Retrieved August 2, 2022, from Wolfram.com website: https://mathworld.wolfram.com/EuclidsPostulates.html
+Euclid’s Postulates. (2022). Retrieved August 2, 2022, from Wolfram.com website: 
+[https://mathworld.wolfram.com/EuclidsPostulates.html](https://mathworld.wolfram.com/EuclidsPostulates.html)
