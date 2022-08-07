@@ -3,6 +3,7 @@ layout: post
 title:  "Creating Everyone Everywhere Affordable Broadband Access"
 author: dan
 categories: [ OnKnowing ]
+tags: [ Featured ]
 image: assets/images/Fiber-Optics.png
 ---
 We produced a paper with recommendations for creating affordable fiber optic
