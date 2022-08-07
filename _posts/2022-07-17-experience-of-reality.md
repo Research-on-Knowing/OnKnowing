@@ -2,6 +2,31 @@
 layout: post
 title:  "Experience of Reality"
 categories: [ OnKnowing ]
-image: assets/images/great-horned-owl.jpg
+image: assets/images/what-is-real.png
 ---
-Add content here
+In the movie *The Matrix* (1999) the scene [What is Real?](https://www.youtube.com/watch?v=VVro5wxqh4U) has the main character named Neo connected 
+to a computer simulation with a terminal jack in the back of his head. Once in the simulation Neo questions the nature of his reality. The 
+discussion puts forth a model of human perception where energy signals such as light, sound, heat, and chemicals impinge on the sensory receptors in 
+the human body. The receptors react sending impulses through the nervous system to the brain. The brain interprets these impulses constructing a 
+mental model creating an individual’s experience of the world around them as what they see, hear, feel, smell, and taste. Our sensory system only 
+samples a small amount of the energy fields and chemical molecules present in the environment directly around us. Our brains interpolate to fill any 
+gaps where data is missing. The sensory processing system can be thought of as our input from the physical world we live in.
+
+The reciprocal output is where the brain and nervous system send impulses to effectors to cause the body to carry on any actions such flex a muscle, 
+blinking eyes, or vocal cord action to speak. Many bodily functions occur automatically through the anatomic nervous system. Others operate under 
+conscious control by the individual. Although, individuals often overestimate (and sometimes underestimate) how much actual conscious control they 
+exert over their bodily functions.
+
+The fascinating question posed in *The Matrix* movie is how would you know the difference between signals supplied to your nervous system from a 
+computer simulation and those from the “real world”?
+
+An important psychological phenomenon to understand is filtering. Our experience is netted together from data sampling within our environment. Past 
+experience and our belief system have a profound effect on our experience of reality. We make predictions and fill in gaps guided by our beliefs and 
+personal history. Sometimes these efforts are correct. Other times they are inaccurate or distorted. This process is called filtering because of how 
+our experience is altered. Some people are described as looking at the world through rose-colored glasses meaning they filter their experience by 
+taking the most optimistic view of situations.
+
+The effects of filtering are most profound in on our options and judgments about other people and situations. Individuals involved in the same group 
+social interaction can report very different interpretations of what just occurred. A common saying illustrating how views can differ is some see 
+the glass of water as half empty and others see it as half full. Filtering can take the form of an internal narrative or thought pattern where the 
+focus of attention over emphasizes some characteristics while minimizing others.
