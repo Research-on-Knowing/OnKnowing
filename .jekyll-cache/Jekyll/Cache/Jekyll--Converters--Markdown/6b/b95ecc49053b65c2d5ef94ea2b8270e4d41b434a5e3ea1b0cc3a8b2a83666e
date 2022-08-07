@@ -1,0 +1,118 @@
+I"'<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
+            
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="sticky"><span>sticky</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/welcome-to-on-knowing/">Welcome to On Knowing!</a>
+	</h2>
+	<p class="excerpt">
+	   On Knowing is the blog for Research on Knowing LLC. Here you will find articles posted exploring the practical application of epistemology to advance how we learn, understand and crea...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 01, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/welcome-to-on-knowing/">
+	<img class="w-100" src="/assets/images/Night-Owl-in-Flight.jpeg" alt="Welcome to On Knowing!" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="featured"><span>featured</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Creating-Everyone-Everywhere-Affordable-Broadband-Access/">Creating Everyone Everywhere Affordable Broadband Access</a>
+	</h2>
+	<p class="excerpt">
+	   We produced a paper with recommendations for creating affordable fiber opticbroadband access. Below is the executive summary, and here is the full paper
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 04, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Creating-Everyone-Everywhere-Affordable-Broadband-Access/">
+	&lt;img class="w-100" src="<a title="felixion  / Gonzalo Pineda Zuniga, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Fiber_optic2.jpg"><img width="512" alt="Fiber optic2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fiber_optic2.jpg/512px-Fiber_optic2.jpg" /></a>" alt="Creating Everyone Everywhere Affordable Broadband Access"&gt;
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+        
+
+        </div>
+        
+            <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Creating-Everyone-Everywhere-Affordable-Broadband-Access/" class="text-dark">Creating Everyone Everywhere Affordable Broadband Access</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#onknowing">OnKnowing</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+        
+    </div>
+</div>
+:ET

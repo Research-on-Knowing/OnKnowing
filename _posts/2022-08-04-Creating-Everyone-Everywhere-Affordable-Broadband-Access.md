@@ -4,7 +4,9 @@ title:  "Creating Everyone Everywhere Affordable Broadband Access"
 author: dan
 categories: [ OnKnowing ]
 tags: [ featured ]
-image: assets/images/Fiber-Optics.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fiber_optic2.jpg/512px-Fiber_optic2.jpg
+imagelic: "felixion  / Gonzalo Pineda Zuniga, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons"
+imagelicref: https://commons.wikimedia.org/wiki/File:Fiber_optic2.jpg
 ---
 We produced a paper with recommendations for creating affordable fiber optic
 broadband access. Below is the executive summary, and here is the 
