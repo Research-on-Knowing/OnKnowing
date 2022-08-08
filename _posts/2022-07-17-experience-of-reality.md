@@ -3,6 +3,8 @@ layout: post
 title:  "Experience of Reality"
 categories: [ OnKnowing ]
 image: assets/images/what-is-real.png
+imagelic: "The Matrix (1990), Warner Bros., Fair Use"
+imagelicref: https://en.wikipedia.org/wiki/The_Matrix
 ---
 In the movie *The Matrix* (1999) the scene [What is Real?](https://www.youtube.com/watch?v=VVro5wxqh4U) has the main character named Neo connected 
 to a computer simulation with a terminal jack in the back of his head. Once in the simulation Neo questions the nature of his reality. The 
