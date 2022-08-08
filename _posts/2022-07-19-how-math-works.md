@@ -3,8 +3,8 @@ layout: post
 title:  "How Math Works"
 categories: [ OnKnowing ]
 image: assets/images/whiteboard-math.png
-imagelic: "Photo: Teacher’s hand writing complicated mathematical formulas on the whiteboard by Marco Verch under Creative Commons 2.0"
-imagelicref: https://creativecommons.org/licenses/by/2.0/
+imagelic: "Photo: Teacher’s hand writing complicated mathematical formulas on the whiteboard by Marco Verch, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, Flickr.com"
+imagelicref: https://www.flickr.com/photos/30478819@N08/51093180622
 ---
 Math stands alone in the discussions of Science, Technology, Engineering, and Mathematics (STEM). 
 Other fields of endeavor rely upon mathematics to create models of theories and work products. 
