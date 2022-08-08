@@ -2,7 +2,9 @@
 layout: post
 title:  "Trial & Error vs Recipe"
 categories: [ OnKnowing ]
-image: assets/images/oatmeal-cookies.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oatmeal_Cookies_with_orange_zest%2C_golden_raisins%2C_and_chocolate_chips.jpg/512px-Oatmeal_Cookies_with_orange_zest%2C_golden_raisins%2C_and_chocolate_chips.jpg
+imagelic: "Paul Martin, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons"
+imagelicref: "https://commons.wikimedia.org/wiki/File:Oatmeal_Cookies_with_orange_zest,_golden_raisins,_and_chocolate_chips.jpg"
 ---
 Problem-solving can be seen broadly as transitioning a situation from one state to another. This view covers a host of human endeavors. 
 Most often the end state is considered a goal or objective. Problem-solving methods can be categorized as either trial and error or 

@@ -146,7 +146,11 @@ description: "Research On Knowing Blog."
                 </p>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
+            {% if post.image contains "://" %}
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{ post.image }});">
+            {% else %}
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">
+            {% endif %}
             </div>
         </div>
     </div>

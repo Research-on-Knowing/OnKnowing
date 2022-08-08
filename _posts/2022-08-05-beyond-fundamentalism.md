@@ -2,7 +2,9 @@
 layout: post
 title:  "Beyond Fundamentalism"
 categories: [ OnKnowing ]
-image: assets/images/Strange-Loop.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mandelbrot_Budding_turbines.jpg/640px-Mandelbrot_Budding_turbines.jpg
+imagelic: "English Wikipedia, original upload 24 November 2005 by David R. Ingham"
+imagelicref: https://commons.wikimedia.org/wiki/File:Mandelbrot_Budding_turbines.jpg#file
 ---
 Religious conservatives have given fundamentalism a bad reputation. “Epistemology of Descartes is known as Fundamentalism. In his book of 
 Meditations on First Philosophy, Descartes tries to find some basis of knowledge. He is searching for total certainty, and by doing so, he subjects 

@@ -3,6 +3,8 @@ layout: post
 title:  "Learning from Mistakes"
 categories: [ OnKnowing ]
 image: assets/images/learn-from-mistakes.png
+imagelic: "Photo taken on January 18, 2012, Creativity Poster 1 - Andrea, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, Flickr.com"
+imagelicref: https://www.flickr.com/photos/53771866@N05/6719843311
 ---
 The ['Frog and Peach’](https://www.youtube.com/watch?v=iuE_a1pTsO4) comedy routine features Dudley Moore interviewing an eccentric restaurant owner 
 played by Peter Cook. Cook describes in detail a failed restaurant that only serves a large frog with a peach in its mouth or a peach sliced open 

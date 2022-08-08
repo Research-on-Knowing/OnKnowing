@@ -3,6 +3,8 @@ layout: post
 title:  "The Importance of Errors"
 categories: [ OnKnowing ]
 image: assets/images/creativity.png
+imagelic: "Photo taken on March 11, 2009 by Auntie P, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, Flickr.com"
+imagelicref: https://www.flickr.com/photos/auntiep/3349295132
 ---
 People often believe if errors and mistakes didn’t occur their lives would be better and the world would be a better place to live. 
 Errors are important and their essential nature is often overlooked. The discovery of penicillin occurred when mold contaminated samples 

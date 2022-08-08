@@ -2,7 +2,9 @@
 layout: post
 title:  "What is Knowledge and does it matter?"
 categories: [ OnKnowing ]
-image: assets/images/Night-Owl.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/James-lee-BMO1SzQHWRs-unsplash.jpg/512px-James-lee-BMO1SzQHWRs-unsplash.jpg
+imagelic: "Griffin2020, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
+imagelicref: https://commons.wikimedia.org/wiki/File:James-lee-BMO1SzQHWRs-unsplash.jpg
 ---
 Some think knowledge is a belief which is always true. They might say, "I know the sun will come up tomorrow." 
 But, such a statement would prove false in the aftermath of a supernova. We can overcome this difficulty 
