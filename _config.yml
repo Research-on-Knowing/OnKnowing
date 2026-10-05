@@ -3,10 +3,10 @@ name: 'On Knowing'
 description: 'The practical application of epistemology to advance how we learn, understand and create things.' 
 logo: 'assets/images/Night-Owl.jpg'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
-url: 'https://www.OnKnowing.com'
+baseurl: '/OnKnowing'
+url: 'https://research-on-knowing.github.io'
 # disqus: 'demowebsite'
-email: 'info@OnKnowing.com' 
+email: 'info@researchonknowing.com' 
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -25,14 +25,14 @@ authors:
       site:           https://www.ResearchOnKnowing.com
       avatar:         assets/images/Jamie.jpg 
       bio:            "Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!"
-      email:          jamie@OnKnowing.com
+      email:          jamie@researchonknowing.com
       twitter:        https://twitter.com/JamieOnKnowing
     dan:
       name:           Dan
       site:           https://www.Dans-IT-Cookbook.com
       avatar:         assets/images/Dan.jpg 
       bio:            "Hi, I'm Dan, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!"
-      email:          dan@OnKnowing.com
+      email:          dan@researchonknowing.com
       twitter:        https://twitter.com/Dan_IT_Cookbook
 
 
