@@ -1,1 +1,0 @@
-Research on Knowing LLC Blog called On Knowing with Mundada Jekyll Theme
