@@ -1,7 +1,6 @@
 # Site
-name: 'On Knowing' 
-description: 'The practical application of epistemology to advance how we learn, understand and create things.' 
-logo: 'assets/images/Night-Owl.jpg'
+name: 'Insights on Knowing'
+description: 'Short stories, sharp observations, and practical wisdom designed to make the unseen mechanics of work and life visible.'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/OnKnowing'
 url: 'https://research-on-knowing.github.io'
@@ -24,14 +23,14 @@ authors:
       name:           Jamie
       site:           https://www.ResearchOnKnowing.com
       avatar:         assets/images/Jamie.jpg 
-      bio:            "Hi, I'm Jamie, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!"
+      bio:            "Hi, I'm Jamie, an author here at Insights on Knowing. I hope these posts add to your understanding of what knowledge is!"
       email:          jamie@researchonknowing.com
       twitter:        https://twitter.com/JamieOnKnowing
     dan:
       name:           Dan
       site:           https://www.Dans-IT-Cookbook.com
       avatar:         assets/images/Dan.jpg 
-      bio:            "Hi, I'm Dan, an author here at On Knowing. I hope these posts add to your understand of what knowledge is!"
+      bio:            "Hi, I'm Dan, an author here at Insights on Knowing. I hope these posts add to your understanding of what knowledge is!"
       email:          dan@researchonknowing.com
       twitter:        https://twitter.com/Dan_IT_Cookbook
 
