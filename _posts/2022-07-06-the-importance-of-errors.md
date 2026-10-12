@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Importance of Errors"
-categories: [ OnKnowing ]
+categories: [ Foundations of Knowing ]
 image: assets/images/creativity.png
 imagelic: "Photo taken on January 18, 2012, Creativity Poster 1 - Andrea, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, Flickr.com"
 imagelicref: https://www.flickr.com/photos/53771866@N05/6719843311

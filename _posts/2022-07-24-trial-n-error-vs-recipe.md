@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trial & Error vs Recipe"
-categories: [ OnKnowing ]
+categories: [ Foundations of Knowing ]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oatmeal_Cookies_with_orange_zest%2C_golden_raisins%2C_and_chocolate_chips.jpg/512px-Oatmeal_Cookies_with_orange_zest%2C_golden_raisins%2C_and_chocolate_chips.jpg
 imagelic: "Paul Martin, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons"
 imagelicref: "https://commons.wikimedia.org/wiki/File:Oatmeal_Cookies_with_orange_zest,_golden_raisins,_and_chocolate_chips.jpg"

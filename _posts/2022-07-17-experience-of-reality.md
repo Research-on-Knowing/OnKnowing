@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Experience of Reality"
-categories: [ OnKnowing ]
+categories: [ Experience and Understanding ]
 image: assets/images/what-is-real.png
 imagelic: "The Matrix (1990), Warner Bros., Fair Use"
 imagelicref: https://en.wikipedia.org/wiki/The_Matrix

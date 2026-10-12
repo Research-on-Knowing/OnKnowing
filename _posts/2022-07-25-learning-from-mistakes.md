@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning from Mistakes"
-categories: [ OnKnowing ]
+categories: [ Foundations of Knowing ]
 image: assets/images/learn-from-mistakes.png
 imagelic: "Photo taken on March 11, 2009 by Auntie P, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, Flickr.com"
 imagelicref: https://www.flickr.com/photos/auntiep/3349295132
