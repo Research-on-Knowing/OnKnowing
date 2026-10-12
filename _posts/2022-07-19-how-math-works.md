@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Math Works"
-categories: [ OnKnowing ]
+categories: [ Experience and Understanding ]
 image: assets/images/whiteboard-math.png
 imagelic: "Photo: Teacher’s hand writing complicated mathematical formulas on the whiteboard by Marco Verch, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, Flickr.com"
 imagelicref: https://www.flickr.com/photos/30478819@N08/51093180622
