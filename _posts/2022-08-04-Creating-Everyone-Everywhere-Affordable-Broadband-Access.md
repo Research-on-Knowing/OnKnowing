@@ -4,7 +4,7 @@ title:  "Creating Everyone Everywhere Affordable Broadband Access"
 author: dan
 categories: [ Applied Insights ]
 tags: [ featured ]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fiber_optic2.jpg/512px-Fiber_optic2.jpg
+image: assets/images/broadband-fiber.jpg
 imagelic: "felixion  / Gonzalo Pineda Zuniga, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons"
 imagelicref: https://commons.wikimedia.org/wiki/File:Fiber_optic2.jpg
 ---

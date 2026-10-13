@@ -2,7 +2,7 @@
 layout: post
 title:  "Beyond Fundamentalism"
 categories: [ Experience and Understanding ]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mandelbrot_Budding_turbines.jpg/640px-Mandelbrot_Budding_turbines.jpg
+image: assets/images/beyond-fundamentalism.jpg
 imagelic: "English Wikipedia, original upload 24 November 2005 by David R. Ingham"
 imagelicref: https://commons.wikimedia.org/wiki/File:Mandelbrot_Budding_turbines.jpg#file
 ---
