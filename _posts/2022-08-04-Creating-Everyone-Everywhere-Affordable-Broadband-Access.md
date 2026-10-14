@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating Everyone Everywhere Affordable Broadband Access"
+title: "Affordable Broadband Access for All"
 author: dan
 categories: [ Applied Insights ]
 tags: [ featured ]
