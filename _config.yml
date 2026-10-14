@@ -19,21 +19,18 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    jamie:
-      name:           Jamie
-      site:           https://www.ResearchOnKnowing.com
-      avatar:         assets/images/Jamie.jpg 
-      bio:            "Hi, I'm Jamie, an author here at Insights on Knowing. I hope these posts add to your understanding of what knowledge is!"
-      email:          jamie@researchonknowing.com
-      twitter:        https://twitter.com/JamieOnKnowing
     dan:
       name:           Dan
-      site:           https://www.Dans-IT-Cookbook.com
-      avatar:         assets/images/Dan.jpg 
-      bio:            "Hi, I'm Dan, an author here at Insights on Knowing. I hope these posts add to your understanding of what knowledge is!"
+      site:           https://www.researchonknowing.com
+      avatar:         assets/images/Dan.jpg
+      bio:            "<strong>Dan Douglass</strong> is Owner of Research on Knowing LLC. He leads organizational vision, operations, and strategic initiatives, focusing on the practical integration of epistemology within business, technology, and execution systems."
       email:          dan@researchonknowing.com
-      twitter:        https://twitter.com/Dan_IT_Cookbook
-
+    jamie:
+      name:           Jamie
+      site:           https://www.researchonknowing.com
+      avatar:         assets/images/Jamie.jpg
+      bio:            "<strong>Jamie Douglass</strong> is Principal Scientist Emeritus at Research on Knowing LLC. He guides foundational research, scientific methodology, and conceptual frameworks—exploring how shifted perspectives reveal unseen structures in how we learn, reason, and work."
+      email:          jamie@researchonknowing.com
 
 # Defaults
 defaults:

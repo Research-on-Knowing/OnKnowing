@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Knowledge and does it matter?"
 categories: [ Foundations of Knowing ]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/James-lee-BMO1SzQHWRs-unsplash.jpg/512px-James-lee-BMO1SzQHWRs-unsplash.jpg
+image: assets/images/what-is-knowledge.jpg
 imagelic: "Griffin2020, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
 imagelicref: https://commons.wikimedia.org/wiki/File:James-lee-BMO1SzQHWRs-unsplash.jpg
 ---
