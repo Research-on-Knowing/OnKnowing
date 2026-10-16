@@ -8,14 +8,12 @@ image: assets/images/broadband-fiber.jpg
 imagelic: "felixion  / Gonzalo Pineda Zuniga, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons"
 imagelicref: https://commons.wikimedia.org/wiki/File:Fiber_optic2.jpg
 ---
-We produced a paper with recommendations for creating affordable fiber optic
-broadband access. Below is the executive summary, and here is the 
+We produced a paper with recommendations for creating affordable fiber optic broadband access. Below is the executive summary, and here is the 
 [full paper](https://drive.google.com/file/d/1zAyzFysyT33g34YLvkvh9l4Kwj32kaBC/view?usp=sharing)
 
 ## Executive Summary
 
-This paper provides essential recommendations for creating affordable fiber optic
-broadband access. The current goal for service is 100 Mbps symmetrical (download
+This paper provides essential recommendations for creating affordable fiber optic broadband access. The current goal for service is 100 Mbps symmetrical (download
 and upload speed) at no more than $70/month. By 2032, 1 Gbps should be available
 for $100/month. Fiber optic technology should be used and the resulting network
 infrastructure should be publicly owned and regulated. Neighborhood networking
