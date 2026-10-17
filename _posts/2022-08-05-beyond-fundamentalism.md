@@ -6,7 +6,7 @@ image: assets/images/beyond-fundamentalism.jpg
 imagelic: "English Wikipedia, original upload 24 November 2005 by David R. Ingham"
 imagelicref: https://commons.wikimedia.org/wiki/File:Mandelbrot_Budding_turbines.jpg#file
 ---
-Religious conservatives have given fundamentalism a bad reputation. The underlying idea, however, has a respectable philosophical cousin called foundationalism: knowledge rests on a foundation of first principles held to be certain. Descartes is the classic example. In his *Meditations on First Philosophy*, Descartes searches for total certainty, and by doing so he subjects everything to doubt. He arrives at the one thing he is certain of, his own existence (UKEssays, 2018). Descartes’ approach has also been used to describe mathematical systems and some scientific theories. First principles are adopted as true, and everything else is logically proven or demonstrated from them. Euclidean geometry is often cited as an example.
+Religious conservatives have given fundamentalism a bad reputation. The underlying idea, however, has a respectable philosophical cousin called foundationalism: knowledge rests on a foundation of first principles held to be certain. Descartes is the classic example. In his *Meditations on First Philosophy*, Descartes searches for total certainty, and by doing so he subjects everything to doubt. He arrives at the one thing he is certain of, his own existence (Newman, 2023). Descartes’ approach has also been used to describe mathematical systems and some scientific theories. First principles are adopted as true, and everything else is logically proven or demonstrated from them. Euclidean geometry is often cited as an example.
 
 Christian Fundamentalists, motivated by a desire for absolute certainty, have adopted a list of tenets they hold as unquestionably true. One such tenet is that the Christian Bible is inerrant. Everything written in the Bible is believed to be the word of God and therefore must be taken as true. The position runs into trouble when the logical inconsistencies within scripture are pointed out. Christian Fundamentalists must engage in a significant amount of mental gymnastics to rationalize these inconsistencies away.
 
@@ -31,4 +31,4 @@ Hofstadter, D. R. (1979). Gödel, Escher, Bach: An eternal golden braid. Basic B
 
 Hofstadter, D. R. (2007). I Am a Strange Loop. Basic Books.
 
-UKEssays. (2018, November). Descartes Epistemology Known As Fundamentalism Philosophy Essay. Retrieved from https://www.ukessays.com/essays/philosophy/descartes-epistemology-known-as-fundamentalism-philosophy-essay.php
+Newman, L. (2023). Descartes’ Epistemology. In E. N. Zalta & U. Nodelman (Eds.), The Stanford Encyclopedia of Philosophy (Winter 2023 Edition). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/win2023/entries/descartes-epistemology/
